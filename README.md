@@ -3,11 +3,11 @@
 
 ## I'm a Lua developer.
 
-- I'm currently working on a Roblox Script Hub ( RadiumHub )
+- I'm currently working on a Roblox Script ( PuppyWare / DaHub )
 
 ### Contact Info
 
-Discord: Linux#6699
+Discord: $ linux#0001
 <br />
 
 ### Languages and Tools:
